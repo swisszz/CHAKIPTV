@@ -219,7 +219,6 @@ http://de.1usd.tv:80/ch655/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNa
 #EXTINF:-1 tvg-name="7xMusic" tvg-id="DeLuxeMusicDance.de" group-title="💋XXX18+" tvg-logo="https://n9.cl/l5yv2q",BCU Charm HD
 http://de.1usd.tv:80/ch1546/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNWBD90yohVaX9n5mD2H7u2IDAbHLpSRwUEycToYXaxjk
 
-#EXTM3U
 #EXTINF:-1 group-title="SPORTS (TESTe LIVE)" tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" tvg-name="TNT Sports 1",TNT Sports 1
 https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzEvbW9uby5tM3U4.m3u8
 
@@ -256,7 +255,7 @@ https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtv
 #EXTINF:-1 group-title="SPORTS (TESTe LIVE)" tvg-id="TUDN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tudn-us.png" tvg-name="TUDN",TUDN
 https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02Ni9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 group-title="UK (TESTe LIVE)" tvg-id="Sky.Witness.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-witness-uk.png" tvg-name="Sky Witness HD",Sky Witness HD
+#EXTINF:-1 group-title="SPORT (TESTe LIVE)" tvg-id="Sky.Witness.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-witness-uk.png" tvg-name="Sky Witness HD",Sky Witness HD
 https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zNjEvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 group-title="SPORTS (TESTe LIVE)" tvg-id="Space.City.Home.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/space-city-home-network-us.png" tvg-name="Space City (SCHN)",Space City (SCHN)
