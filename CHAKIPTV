@@ -42,36 +42,6 @@ https://n9.cl/e3967
 #EXTINF:-1 group-title="🇹🇭TV MUSIC"" tvg-logo="https://n9.cl/hpqq8",Trace Urban HD
 https://n9.cl/8q33i
 
-#EXTINF:-1 group-title="🇹🇭TV MUSIC"" tvg-logo="https://n9.cl/njub7",MTV
-http://de.1usd.tv:80/ch030/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNW4BgQevbpQA4GkYdAUnlD4w5QkGzp2w2SJrQPu6W3T_
-
-#EXTINF:-1 group-title="🇹🇭TV MUSIC"" tvg-logo="https://n9.cl/9zaqv",MTV Base HD
-http://de.1usd.tv:80/ch2766/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNYyopT1EwQT_aRqWUF95C2UT1CfWLP9OX9qYI5CVYehw
-
-#EXTINF:-1 group-title="🇹🇭TV MUSIC"" tvg-logo="https://n9.cl/jjt8j",MTV Idol HD
-http://de.1usd.tv:80/ch2752/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNcJSdOYFF7I7Ha-sKfhPNDdUv1AbmxfYltJ2jHT8GUlP
-
-#EXTINF:-1 group-title="🇹🇭TV MUSIC"" tvg-logo="https://n9.cl/we2pq",MTV Pulse HD
-http://de.1usd.tv:80/ch2758/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNcJSdOYFF7I7Ha-sKfhPNDeO8Bx6OobS0c6jj3d4Cm02
-
-#EXTINF:-1 group-title="🇹🇭TV MUSIC"" tvg-logo="https://n9.cl/bhn7ra",MTV Live HD
-http://de.1usd.tv:80/ch552/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNUsfKOCk-CdQzGcvlq3qVe0NCuto9QHmaliGyi67bRDo
-
-#EXTINF:-1 group-title="🇹🇭TV MUSIC"" tvg-logo="https://n9.cl/n9pev",MTV Club
-http://de.1usd.tv:80/ch031/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNeHfWDo4bBqOdH0lRYUcEv22DbarP0NnEwqnpVxbBusM
-
-#EXTINF:-1 group-title="🇹🇭TV MUSIC"" tvg-logo="https://n9.cl/1bk69i",MTV Hits
-http://de.1usd.tv:80/ch019/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNTC3jcke29GkBsMSjYTTDpLLqk8AKJeu-iE1uQJ5jDRv
-
-#EXTINF:-1 group-title="🇹🇭TV MUSIC"" tvg-logo="https://n9.cl/xoqcx",MTV 80s
-http://de.1usd.tv:80/ch029/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNQ_7rqDkk5S46rbwhTr8oHfPO8BQamt2tLYLZzodlv3a
-
-#EXTINF:-1 group-title="🇹🇭TV MUSIC"" tvg-logo="https://n9.cl/01jjc",MTV 90s
-http://de.1usd.tv:80/ch594/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNWPzpk3CoCAKUIP2-JiggHHH-vxDP1MmxXRaXfqSk2xs
-
-#EXTINF:-1 group-title="🇹🇭TV MUSIC"" tvg-logo="https://n9.cl/x40wa2",MTV 00s
-http://de.1usd.tv:80/ch028/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNY2utUCPrUtUWlgIUFbPtqgvEny06IP9p6QKSUsYUtSC
-
 #EXTINF:-1 tvg-name="7xMusic" tvg-id="DeLuxeMusicDance.de" group-title="💋XXX18+" tvg-logo="https://n9.cl/znx8k",Pornbox Diabolic
 http://de.1usd.tv:80/ch291/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNR4UAEOpwdTIGr8FihiebiyUte3-4xaS4VQddWFskvGI
 
@@ -218,6 +188,36 @@ http://de.1usd.tv:80/ch655/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNa
 
 #EXTINF:-1 tvg-name="7xMusic" tvg-id="DeLuxeMusicDance.de" group-title="💋XXX18+" tvg-logo="https://n9.cl/l5yv2q",BCU Charm HD
 http://de.1usd.tv:80/ch1546/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNWBD90yohVaX9n5mD2H7u2IDAbHLpSRwUEycToYXaxjk
+
+#EXTINF:-1 group-title="🇹🇭TV MUSIC"" tvg-logo="https://n9.cl/njub7", MTV
+http://de.1usd.tv:80/ch030/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNW4BgQevbpQA4GkYdAUnlD4w5QkGzp2w2SJrQPu6W3T_
+
+#EXTINF:-1 group-title="🇹🇭TV MUSIC"" tvg-logo="https://n9.cl/9zaqv", MTV Base HD
+http://de.1usd.tv:80/ch2766/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNYyopT1EwQT_aRqWUF95C2UT1CfWLP9OX9qYI5CVYehw
+
+#EXTINF:-1 group-title="🇹🇭TV MUSIC"" tvg-logo="https://n9.cl/jjt8j", MTV Idol HD
+http://de.1usd.tv:80/ch2752/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNcJSdOYFF7I7Ha-sKfhPNDdUv1AbmxfYltJ2jHT8GUlP
+
+#EXTINF:-1 group-title="🇹🇭TV MUSIC"" tvg-logo="https://n9.cl/we2pq", MTV Pulse HD
+http://de.1usd.tv:80/ch2758/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNcJSdOYFF7I7Ha-sKfhPNDeO8Bx6OobS0c6jj3d4Cm02
+
+#EXTINF:-1 group-title="🇹🇭TV MUSIC"" tvg-logo="https://n9.cl/bhn7ra", MTV Live HD
+http://de.1usd.tv:80/ch552/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNUsfKOCk-CdQzGcvlq3qVe0NCuto9QHmaliGyi67bRDo
+
+#EXTINF:-1 group-title="🇹🇭TV MUSIC"" tvg-logo="https://n9.cl/n9pev", MTV Club
+http://de.1usd.tv:80/ch031/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNeHfWDo4bBqOdH0lRYUcEv22DbarP0NnEwqnpVxbBusM
+
+#EXTINF:-1 group-title="🇹🇭TV MUSIC"" tvg-logo="https://n9.cl/1bk69i", MTV Hits
+http://de.1usd.tv:80/ch019/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNTC3jcke29GkBsMSjYTTDpLLqk8AKJeu-iE1uQJ5jDRv
+
+#EXTINF:-1 group-title="🇹🇭TV MUSIC"" tvg-logo="https://n9.cl/xoqcx", MTV 80s
+http://de.1usd.tv:80/ch029/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNQ_7rqDkk5S46rbwhTr8oHfPO8BQamt2tLYLZzodlv3a
+
+#EXTINF:-1 group-title="🇹🇭TV MUSIC"" tvg-logo="https://n9.cl/01jjc", MTV 90s
+http://de.1usd.tv:80/ch594/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNWPzpk3CoCAKUIP2-JiggHHH-vxDP1MmxXRaXfqSk2xs
+
+#EXTINF:-1 group-title="🇹🇭TV MUSIC"" tvg-logo="https://n9.cl/x40wa2", MTV 00s
+http://de.1usd.tv:80/ch028/mono.m3u8?token=1usdtv_misa777.8vQ0y3l0WbPTsHp6lRtcNY2utUCPrUtUWlgIUFbPtqgvEny06IP9p6QKSUsYUtSC
 
 #EXTINF:-1 group-title="SPORTS (TESTe LIVE)" tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" tvg-name="TNT Sports 1",TNT Sports 1
 https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzEvbW9uby5tM3U4.m3u8
