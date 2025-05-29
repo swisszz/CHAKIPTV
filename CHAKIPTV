@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="🇹🇭TV DIGITAL"" tvg-logo="https://n9.cl/4kmiht",CH7 bkp
+#EXTINF:-1 group-title="🇹🇭TV DIGITAL"" tvg-logo="https://n9.cl/4kmiht",CH7 
 https://n9.cl/hwooe
+
+#EXTINF:-1 group-title="🇹🇭TV DIGITAL"" tvg-logo="https://n9.cl/4kmiht",CH7 BKP
+https://raw.githubusercontent.com/swisszz/7C/refs/heads/main/7C
 
 #EXTINF:-1 group-title="🇹🇭TV DIGITAL"" tvg-logo="https://n9.cl/9f0xf",CH3 HD
 https://n9.cl/rxvcl
