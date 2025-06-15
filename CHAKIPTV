@@ -109,6 +109,38 @@ https://n9.cl/gf1zj
 #EXTVLCOPT:http-user-agent
 https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/lwb3do",หนังเอเชีย 
+#EXTVLCOPT:http-user-agent
+http://45.144.165.223:9090/memfs/2d8a0d34-c005-45f6-9a20-85efe6186a0a.m3u8
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/lwb3do",หนังไทย
+#EXTVLCOPT:http-user-agent
+http://45.144.165.223:9090/memfs/bac4e40a-9545-4c92-b778-c2a836aeab0b.m3u8
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/lwb3do",THAIMOVIES 2
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://iptvview.sytes.net:9090/memfs/cad7574f-8c82-4f9d-a3e8-ad1ff79bb2e4.m3u8
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/xso1x",FWSov
+#EXTVLCOPT:http-user-agent
+https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8?
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/xso1x",FWDOC
+#EXTVLCOPT:http-user-agent
+https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/playlist.m3u8?
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/ac6fg", Iplaymedia
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
+http://playid.ddnsgeek.com:8080/playid/playid/37
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/o2mbr", Iplaymove
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
+http://playid.ddnsgeek.com:8080/playid/playid/19389
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/02lqk",PlayID Movie 2
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
+http://playid.ddnsgeek.com:8080/playid/playid/18833
+
 #EXTINF:-1 group-title="🇹🇭TV  CHAK MUSIC"" tvg-logo="https://n9.cl/28sz5",Pop Star
 https://n9.cl/gx345d
 
