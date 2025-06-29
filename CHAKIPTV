@@ -1,43 +1,41 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/4kmiht",CH7 
-https://n9.cl/hwooe
+https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/4kmiht",CH7 bk
-https://n9.cl/wjxh7
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/d2ksaw",CH8
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/r0we5",Nation CHAK
-https://n9.cl/hla6d
+https://lb1-live-mv.v2h-cdn.com/hls/ffcc/nation/nation.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/9f0xf",CH3 HD
-https://n9.cl/rxvcl
+https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/l869p",TNN
-https://n9.cl/k5en2
+https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8
 
-#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/axrg8",TPTV
-https://n9.cl/801pa
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/65b58o",Amarin HD
-https://n9.cl/3wi6n
+https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/409e5",Thairath HD
-https://n9.cl/m4i70
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/3gdhl",Channel 8
-https://n9.cl/ng1sey
+http://vip.login.in.th:1935/ch8/ch8/chunklist.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/dguzu",Workpoint HD
-https://n9.cl/uschu
+https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/49yt5v",NBT
-https://n9.cl/r3y1if
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://bit.ly/3aaooNF",CH5
-https://n9.cl/h6s98
+https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/lu6uq",MVTV ท้องถิ่นไทย
 https://n9.cl/4aa7e
@@ -49,7 +47,7 @@ https://n9.cl/zcdva
 https://n9.cl/wqz5c
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/unxb8",JKN
-https://n9.cl/rsqfj
+https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://rb.gy/v6qhe8",News 1
 https://n9.cl/w74ya
@@ -58,28 +56,25 @@ https://n9.cl/w74ya
 https://n9.cl/anmyn4
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/ry89h",T Sport
-https://n9.cl/doc06
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/afnnk",Mono 29
-https://n9.cl/kl6fs4
+https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/chunklist_b6628000.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/83jvz",Mcot
-https://n9.cl/736v4t
+https://lb1-live-mv.v2h-cdn.com/hls/ffbb/mcot/mcot.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/ipdj6",One
-https://n9.cl/8xcxr
+https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/wmbwp",PPTV
-https://n9.cl/j4cun
+https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/wmbwp",GMM25
-https://n9.cl/ah1kk
+https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/0ws87l",True 24
 https://n9.cl/iin9q
-
-#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/9and3s",สถานีเพื่อนสนิท
-https://n9.cl/znwmd
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/lr6ho",หนัง Universal
 #EXTVLCOPT:http-user-agent
@@ -92,18 +87,6 @@ http://49.0.64.96:8007/SERIES
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/6scka",หนัง Animal
 #EXTVLCOPT:http-user-agent
 http://49.0.64.96:8007/Animal
-
-#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/x2ex8k",TLC
-https://n9.cl/4jgeck
-
-#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/3aukku",Discovery
-https://n9.cl/87gdk
-
-#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/2o01p4",Siamnews
-https://n9.cl/w3lz8z
-
-#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/twehr",ThaiNews
-https://n9.cl/gf1zj
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/4d930",FWMOV
 #EXTVLCOPT:http-user-agent
