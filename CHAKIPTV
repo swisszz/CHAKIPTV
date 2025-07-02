@@ -42,13 +42,11 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/y2z253",Thai Chaiyo
 https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
 
-
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/q3t23i",Looktung Network FM 
 http://vip.login.in.th:1935/looktungnetwork1/looktungnetwork1/playlist.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/unxb8",JKN
 https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
-
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://bit.ly/3R57wIK",Thai PBS
 https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8
@@ -113,45 +111,6 @@ http://49.0.64.96:8007/SERIES
 #EXTVLCOPT:http-user-agent
 http://49.0.64.96:8007/Animal
 
-#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/4d930",FWMOV
-#EXTVLCOPT:http-user-agent
-https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?
-
-#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/lwb3do",หนังเอเชีย 
-#EXTVLCOPT:http-user-agent
-http://45.144.165.223:9090/memfs/2d8a0d34-c005-45f6-9a20-85efe6186a0a.m3u8
-
-#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/lwb3do",หนังไทย
-#EXTVLCOPT:http-user-agent
-http://45.144.165.223:9090/memfs/bac4e40a-9545-4c92-b778-c2a836aeab0b.m3u8
-
-#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/lwb3do",THAIMOVIES 2
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://iptvview.sytes.net:9090/memfs/cad7574f-8c82-4f9d-a3e8-ad1ff79bb2e4.m3u8
-
-#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/xso1x",FWSov
-#EXTVLCOPT:http-user-agent
-https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8?
-
-#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/xso1x",FWDOC
-#EXTVLCOPT:http-user-agent
-https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/playlist.m3u8?
-
-#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/ac6fg", Iplaymedia
-#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
-http://playid.ddnsgeek.com:8080/playid/playid/37
-
-#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/o2mbr", Iplaymove
-#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
-http://playid.ddnsgeek.com:8080/playid/playid/19389
-
-#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/02lqk",PlayID Movie 2
-#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
-http://playid.ddnsgeek.com:8080/playid/playid/18833
-
-#EXTINF:-1 group-title="🇹🇭TV  CHAK MUSIC"" tvg-logo="https://n9.cl/hpqq8",Traceurban
-https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-
 #EXTINF:-1 group-title="🇹🇭TV CHAK MUSIC"" tvg-logo="https://bit.ly/3ybR40A",KroneHit TV Music
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
@@ -161,10 +120,8 @@ https://n9.cl/6sgjpu
 #EXTINF:-1 group-title="🇹🇭TV CHAK MUSIC"" tvg-logo="https://shorturl.at/vsHG9",DELUXE -DANCE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 
-
 #EXTINF:-1 group-title="🇹🇭TV CHAK MUSIC"" tvg-logo="https://n9.cl/hpqq8",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-
 
 #EXTINF:-1 group-title="💋XXX18+"" tvg-logo="https://n9.cl/znx8k",น้องพลอย รับบทหมอนวดสาว VIP
 https://ezycdn.com/playlist-bcu1ccv3-FHD.m3u8
