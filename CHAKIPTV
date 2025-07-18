@@ -90,33 +90,8 @@ https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/baylk",Police Chanell
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 
-
-#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/5rkrv",ช่องหนัง
-http://49.0.64.96:8007/H-Channel
-
-#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/5rkrv",ช่องหนัง IZAA 
-http://49.0.64.96:8007/IZAA
-
-#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/aysxel",ช่องหนัง Seriel
-http://49.0.64.96:8007/SERIES
-
-#EXTINF:-1 group-title="Sport CHAK"" tvg-logo="https://n9.cl/vv4ov",HI Fight HD
-http://49.0.64.96:8007/HIFIGHT
-
-#EXTINF:-1 group-title="Sport CHAK"" tvg-logo="https://n9.cl/vv4ov",HI Fight ไก่ชน
-http://49.0.64.96:8007/HiSports
-
-#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/lr6ho",หนัง Universal
-#EXTVLCOPT:http-user-agent
-http://49.0.64.96:8007/H-Channel
-
-#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/lr6ho",หนัง Series
-#EXTVLCOPT:http-user-agent
-http://49.0.64.96:8007/SERIES
-
-#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/6scka",หนัง Animal
-#EXTVLCOPT:http-user-agent
-http://49.0.64.96:8007/Animal
+#EXTINF:-1 group-title="🇹🇭TV CHAK MUSIC"" tvg-logo="https://n9.cl/g23v5",Musica ʜᴅ | DANCE Latinos Hits 2K
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/3182
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK MUSIC"" tvg-logo="https://bit.ly/3ybR40A",KroneHit TV Music
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
