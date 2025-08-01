@@ -156,6 +156,9 @@ https://master.streamhls.com/hls/9a10c5172bb36e6aaecf46341cd56deb/master.m3u8
 #EXTINF:-1 tvg-logo="https://n9.cl/ph4sfh" group-title="หนังใหม่-2025" ,ทัณฑกาล (Thantakan) (2025) Swisszz
 https://ok-nah.com/hls/6f45c0b1a920ac8ca891ed56150301db/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://n9.cl/csra3" group-title="หนังใหม่-2025" ,ศึกเทพสยบมาร พากย์ไทย(2025) Swisszz
+https://ok-nah.com/hls/a0f3b0032e20465329e0d283145e9ba1/master.m3u8
+
 #EXTINF:-1 group-title="💋XXX18+"" tvg-logo="https://n9.cl/znx8k", VIP
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4160
 
