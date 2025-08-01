@@ -651,5 +651,8 @@ https://master.streamhls.com/hls/02ab39a3752643ba4f38cf3c723c92f8/master.m3u8
 https://master.streamhls.com/hls/90cc24021ca7d5220adf83d49ebe0519/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://n9.cl/pku446" group-title="หนังใหม่-2025" ,รันตีแต่งผีปลุกปีศาจ (2025) Swisszz
-https://master.streamhls.com/hls/70caee8d6d757ee2f1b88a714c42af17/master
+https://master.streamhls.com/hls/70caee8d6d757ee2f1b88a714c42af17/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://n9.cl/aoe3v0" group-title="หนังใหม่-2025" ,Lost Destiny (2025) พรหมลิขิตรักชิงชิว  Swisszz
+https://master.streamhls.com/hls/9a10c5172bb36e6aaecf46341cd56deb/master.m3u8
 
