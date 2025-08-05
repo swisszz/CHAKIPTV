@@ -141,6 +141,9 @@ https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist_b1628000_slita.m3
 #EXTINF:-1 group-title="🇹🇭TV CHAK MUSIC"" tvg-logo="https://n9.cl/hpqq8",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 
+#EXTINF:-1 tvg-logo="https://n9.cl/trolq" group-title="หนังใหม่-2025" ,High Forces (2024) ยึดเสียดฟ้า Swisszz
+https://ok-nah.com/hls/4006694b180580450b8b1e9f4c6ee813/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://n9.cl/evarz" group-title="หนังใหม่-2025" ,จอมยุทธ์ทะลุภพ พากย์ไทย Swisszz
 https://ok-nah.com/hls/33fa469361ad116b06fc29f876dd4655/master.m3u8
 
