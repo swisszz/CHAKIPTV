@@ -55,7 +55,7 @@ http://radio11.plathong.net:8896/;stream.mp3
 https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/q5pkh",ALLTV.4
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://bit.ly/3R57wIK",Thai PBS
 https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8
