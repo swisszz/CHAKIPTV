@@ -30,7 +30,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/3gdhl",Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 
-#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/dguzu",Altv Backup
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/q5pkh",ALLTV.4 Backup
 https://lb1-live-mv.v2h-cdn.com/hls/fffc/altv/altv.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/dguzu",Workpoint 
@@ -140,6 +140,12 @@ https://s6.hopslan.com/sixX/index.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/i3clnz",Pro7maxx
 https://s6.hopslan.com/pro7maxxX/index.m3u8
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/4nglif",Pro7
+https://s6.hopslan.com/pro7X/index.m3u8
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/kk1ip",ARD
+https://s6.hopslan.com/ardX/index.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/ujj1p",ntv
 https://s6.hopslan.com/ntvX/index.m3u8
