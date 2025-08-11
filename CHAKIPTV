@@ -150,13 +150,16 @@ https://s6.hopslan.com/ardX/index.m3u8
 #EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/ujj1p",ntv
 https://s6.hopslan.com/ntvX/index.m3u8
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/s1mum",TelleBern
+https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/MXIadUe7y-vL4RZUT-FaBg/index-s32.m3u8
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK MUSIC"" tvg-logo="hhttps://n9.cl/z5fnep",KissKissTV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist_b1628000_slita.m3u8?
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK MUSIC"" tvg-logo="https://n9.cl/hpqq8",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://n9.cl/ny6en" group-title="หนังใหม่-2025" ,พรหมลิขิตรักชิงชิว พากย์ไทย Swisszz
+#EXTINF:-1 tvg-logo="https://n9.cl/ny6en" group-title="หนังใหม่-2025" ,พรหมลิขิตรักชิงชิว พากย์ไทย Swisszz สำหรับที่รัก🥰
 https://ok-nah.com/hls/811d77e6695a5ef2c0ca371254f00466/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://n9.cl/8528cz" group-title="หนังใหม่-2025" ,Ballerina (2025) บัลเลรินา แค้นกว่านรก Swisszz
