@@ -159,6 +159,9 @@ http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 group-title="🇹🇭TV CHAK US "" tvg-logo="https://relink.asia/u7lry",UFC
 http://fl1.moveonjoy.com/UFC/index.m3u8
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK US "" tvg-logo="https://relink.asia/wA40T",Disvovery
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK MUSIC"" tvg-logo="hhttps://n9.cl/z5fnep",KissKissTV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist_b1628000_slita.m3u8?
 
