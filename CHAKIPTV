@@ -153,6 +153,12 @@ https://s6.hopslan.com/ntvX/index.m3u8
 #EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/s1mum",TelleBern
 https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/MXIadUe7y-vL4RZUT-FaBg/index-s32.m3u8
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK US "" tvg-logo="https://f.hubspotusercontent40.net/hubfs/2173091/IPTV%20Channel%20Logos/nbc-east-light-1.png",NBC EAST
+http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK US "" tvg-logo="https://relink.asia/u7lry",UFC
+http://fl1.moveonjoy.com/UFC/index.m3u8
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK MUSIC"" tvg-logo="hhttps://n9.cl/z5fnep",KissKissTV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist_b1628000_slita.m3u8?
 
