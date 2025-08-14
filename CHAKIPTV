@@ -150,6 +150,15 @@ https://s6.hopslan.com/ardX/index.m3u8
 #EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/ujj1p",ntv
 https://s6.hopslan.com/ntvX/index.m3u8
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/w0pqe8",eurosport
+http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/31314/index.m3u8
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/owqe2l",eurosport 2
+http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/31315/index.m3u8
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/n7wro",Net Geo Wild
+http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/7256/index.m3u8
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/s1mum",TelleBern
 https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/MXIadUe7y-vL4RZUT-FaBg/index-s32.m3u8
 
