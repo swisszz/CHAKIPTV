@@ -39,6 +39,9 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/49yt5v",NBT
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://bit.ly/3aaooNF",CH5 bk
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://bit.ly/3aaooNF",CH5
 https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
 
