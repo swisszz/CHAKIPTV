@@ -47,6 +47,9 @@ https://raw.githubusercontent.com/swisszz/Nationchak/refs/heads/main/NationTEST
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/d2ksaw",CH8
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/3ko6w2",Animal True
+https://raw.githubusercontent.com/swisszz/arena7/refs/heads/main/Animal
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/9n1z6", Tamma tv
 https://raw.githubusercontent.com/swisszz/7C/refs/heads/main/Tammatv
 
@@ -58,6 +61,9 @@ https://raw.githubusercontent.com/swisszz/-BoxingChak/refs/heads/main/monomax2
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/9f0xf",CH3 HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/9f0xf",CH3 HD True
+https://raw.githubusercontent.com/swisszz/ch3Chak/refs/heads/main/Ch3TEST
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/l869p",TNN
 https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8
@@ -89,8 +95,8 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://bit.ly/3aaooNF",CH5 bk
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
-#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://bit.ly/3aaooNF",CH5
-https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://bit.ly/3aaooNF",CH5 True
+https://raw.githubusercontent.com/swisszz/Ch5chak/refs/heads/main/Ch5Test
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/y2z253",Thai Chaiyo
 https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
@@ -100,6 +106,9 @@ http://vip.login.in.th:1935/looktungnetwork1/looktungnetwork1/playlist.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/dnycy",Looktung LAKTHAI FM
 http://radio11.plathong.net:8896/;stream.mp3
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/wa2oo",News 1 True
+https://raw.githubusercontent.com/swisszz/New1chak/refs/heads/main/New1TEST
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/unxb8",JKN
 https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
@@ -152,6 +161,9 @@ https://raw.githubusercontent.com/swisszz/sk2/refs/heads/main/chang%20ral
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/adt8o",GMM25
 https://relink.asia/CeuoG
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/xcwl5",Discovery True
+https://raw.githubusercontent.com/swisszz/DiscoveryChak/refs/heads/main/DiscoveryTest
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/wmbwp",GMM25 true
 https://raw.githubusercontent.com/swisszz/gmmchak/refs/heads/main/GmmTEST
 
@@ -160,6 +172,9 @@ https://live.topnews.co.th/hls/topnews_a_480.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/i4roq",Top News True
 https://raw.githubusercontent.com/swisszz/TestChak1/refs/heads/main/Topnews
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/0ws87l",True 24 true
+https://raw.githubusercontent.com/swisszz/ChakTest4/refs/heads/main/trueforyou
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/0ws87l",True 24
 https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
