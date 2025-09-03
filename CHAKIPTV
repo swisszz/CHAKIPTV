@@ -95,6 +95,9 @@ https://raw.githubusercontent.com/swisszz/Workpochak/refs/heads/main/Workpointte
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/49yt5v",NBT
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/49yt5v",NBT true
+https://raw.githubusercontent.com/swisszz/nbtChak/refs/heads/main/NbtTEST
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/mnewa",Munchon tv True
 https://raw.githubusercontent.com/swisszz/Aren1Chak/refs/heads/main/munchontv
 
