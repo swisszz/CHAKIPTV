@@ -71,6 +71,9 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffc/altv/altv.m3u8
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/dguzu",Workpoint 
 https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/dguzu",Workpoint True
+https://raw.githubusercontent.com/swisszz/Workpochak/refs/heads/main/Workpointtest
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/49yt5v",NBT
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
 
