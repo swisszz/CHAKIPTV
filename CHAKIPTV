@@ -41,6 +41,9 @@ https://relink.asia/LQtE8
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/pkxl3",Nation 
 https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/1080p/index.m3u8
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/pkxl3",Nation True
+https://raw.githubusercontent.com/swisszz/Nationchak/refs/heads/main/NationTEST
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/d2ksaw",CH8
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
 
@@ -104,6 +107,9 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://bit.ly/3R57wIK",Thai PBS
 https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://bit.ly/3R57wIK",Thai PBS True
+https://raw.githubusercontent.com/swisszz/pbsChak/refs/heads/main/pbsTEST
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://is.gd/BEhrf8", True sport
 https://is.gd/GNF8fw
 
@@ -113,11 +119,20 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/afnnk",Mono 29
 https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/afnnk",Mono 29 true
+https://raw.githubusercontent.com/swisszz/monochak/refs/heads/main/MonoTEST
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/7cydc",Mono 29+
 https://raw.githubusercontent.com/swisszz/sk5/refs/heads/main/mono%2B
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/83jvz",Mcot true
+https://raw.githubusercontent.com/swisszz/mcotchak/refs/heads/main/mcotTest
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/83jvz",Mcot
 https://lb1-live-mv.v2h-cdn.com/hls/ffbb/mcot/mcot.m3u8
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/ipdj6",One true
+https://raw.githubusercontent.com/swisszz/Onechak/refs/heads/main/OneTest
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/ipdj6",One
 https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
@@ -132,10 +147,10 @@ https://raw.githubusercontent.com/swisszz/ppChak/refs/heads/main/ppTEST
 https://raw.githubusercontent.com/swisszz/sk2/refs/heads/main/chang%20ral
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/adt8o",GMM25
-https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
+https://relink.asia/CeuoG
 
-#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/wmbwp",GMM25
-https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/wmbwp",GMM25 true
+https://raw.githubusercontent.com/swisszz/gmmchak/refs/heads/main/GmmTEST
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/kxx4l5",Top News
 https://live.topnews.co.th/hls/topnews_a_480.m3u8
