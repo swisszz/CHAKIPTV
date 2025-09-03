@@ -17,6 +17,9 @@ https://relink.asia/4AoYN
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/8hf5n",True beiN 2
 https://relink.asia/DtVfz
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/9hdxg",True beiN 3
+https://raw.githubusercontent.com/swisszz/SportChak/refs/heads/main/beiN3
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/2l4yh",Truespotv1
 https://relink.asia/Hs9Wd
 
@@ -37,6 +40,12 @@ https://relink.asia/n8fWG
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/97ikh",truesci
 https://relink.asia/LQtE8
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/43n98",History
+https://raw.githubusercontent.com/swisszz/skynetChak/refs/heads/main/%E0%B9%89history
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/pg43v",cunchannel
+https://raw.githubusercontent.com/swisszz/skymaxCHAK/refs/heads/main/SkymaxTEST
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/pkxl3",Nation 
 https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/1080p/index.m3u8
@@ -67,6 +76,9 @@ https://raw.githubusercontent.com/swisszz/ch3Chak/refs/heads/main/Ch3TEST
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/l869p",TNN
 https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/b8u7i",TPTV true
+https://raw.githubusercontent.com/swisszz/ChakTest2/refs/heads/main/tptv
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/b8u7i",TPTV
 https://lb1-live-mv.v2h-cdn.com/hls/ffec/tptv/tptv.m3u8
