@@ -47,6 +47,9 @@ https://raw.githubusercontent.com/swisszz/Nationchak/refs/heads/main/NationTEST
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/d2ksaw",CH8
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/9n1z6", Tamma tv
+https://raw.githubusercontent.com/swisszz/7C/refs/heads/main/Tammatv
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/x7i9e",Monomax1 True
 https://raw.githubusercontent.com/swisszz/Aren3/refs/heads/main/monomax1
 
