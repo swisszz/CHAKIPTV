@@ -53,6 +53,9 @@ https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/1080p/index.m3u
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/pkxl3",Nation True
 https://raw.githubusercontent.com/swisszz/Nationchak/refs/heads/main/NationTEST
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/d2ksaw",CH8 true
+https://raw.githubusercontent.com/swisszz/chthai8Chak/refs/heads/main/chthai8TEST
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/d2ksaw",CH8
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
 
@@ -92,6 +95,9 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/65b58o",Amarin HD True
 https://raw.githubusercontent.com/swisszz/Amarinchak/refs/heads/main/amarinTest
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/3gdhl",Channel 8 True
+https://raw.githubusercontent.com/swisszz/MusicChak/refs/heads/main/chanel8
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/3gdhl",Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 
@@ -118,6 +124,9 @@ https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://bit.ly/3aaooNF",CH5 True
 https://raw.githubusercontent.com/swisszz/Ch5chak/refs/heads/main/Ch5Test
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/y2z253",Thai Chaiyo True
+https://raw.githubusercontent.com/swisszz/MusicChak/refs/heads/main/chaiyo
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/y2z253",Thai Chaiyo
 https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
