@@ -218,6 +218,15 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 #EXTINF:-1 group-title="🇹🇭TV CHAK MUSIC"" tvg-logo="https://bit.ly/3ybR40A",KroneHit TV Music
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/1m2ee",Discovery
+https://n9.cl/7st2p
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/fg43q",Animal Planet
+https://n9.cl/hyne9
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/fkr2k",Natgowild
+https://n9.cl/bu46h
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/j16uz", RTL
 https://s6.hopslan.com/rtl/index.m3u8
 
