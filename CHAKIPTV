@@ -26,6 +26,9 @@ https://relink.asia/Hs9Wd
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/idfiy",Truespotv2
 https://relink.asia/s702H
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/ataeh",MGP 
+https://raw.githubusercontent.com/swisszz/MusicChak/refs/heads/main/mgp
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/efo3s2",trueasiamoves
 https://relink.asia/oxYiw
 
@@ -101,6 +104,9 @@ https://raw.githubusercontent.com/swisszz/MusicChak/refs/heads/main/chanel8
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/3gdhl",Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/5djoj",Asian hit
+https://raw.githubusercontent.com/swisszz/MusicChak/refs/heads/main/Asian%20hit
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/q5pkh",ALLTV.4 Backup
 https://lb1-live-mv.v2h-cdn.com/hls/fffc/altv/altv.m3u8
 
@@ -130,6 +136,9 @@ https://raw.githubusercontent.com/swisszz/MusicChak/refs/heads/main/chaiyo
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/y2z253",Thai Chaiyo
 https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/9p8fiv",Omung lou
+https://raw.githubusercontent.com/swisszz/MusicChak/refs/heads/main/O%20mung%20lau
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK"" tvg-logo="https://n9.cl/q3t23i",Looktung Network FM 
 http://vip.login.in.th:1935/looktungnetwork1/looktungnetwork1/playlist.m3u8
