@@ -206,14 +206,23 @@ https://n9.cl/hyne9
 #EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/fkr2k",Natgowild
 https://n9.cl/bu46h
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/ejouu",Sky Sport Mix HD
+http://swisszziptv.atwebpages.com/c3EZYW
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/bgupk", Servus
 http://swisszziptv.atwebpages.com/PQw4Ca
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/j16uz", RTL
 https://s6.hopslan.com/rtl/index.m3u8
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/j16uz", RTL HD
+http://swisszziptv.atwebpages.com/QFrIwO
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/h6fx5", RTL2
 https://s6.hopslan.com/rtl2X/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/h6fx5", RTL2 HD
+http://swisszziptv.atwebpages.com/CEDexc
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/gr44f", TLC
 https://s6.hopslan.com/tlcX/tracks-v1a1/mono.m3u8
@@ -224,8 +233,14 @@ https://s6.hopslan.com/zdfX1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/6ctpph", Sat1
 https://s6.hopslan.com/sat1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/bs2qha", Euronews Deutsch 
+http://swisszziptv.atwebpages.com/hHWURz
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/lbuf6f", Demax
 https://s6.hopslan.com/dmaxX/index.m3u8
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/lbuf6f", Demax HD
+http://swisszziptv.atwebpages.com/3kGSn7
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/zgegl",Kabel 1
 https://s6.hopslan.com/kabel1X/index.m3u8
@@ -233,8 +248,14 @@ https://s6.hopslan.com/kabel1X/index.m3u8
 #EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/6po27",Kabel1 Doku
 https://s6.hopslan.com/dokuX/index.m3u8
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/6po27",Kabel1 Doku HD
+http://swisszziptv.atwebpages.com/3SKnUf
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/bg10s",Vox
 https://s6.hopslan.com/voxX/index.m3u8
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/m0a63",N24 Doku HD
+http://swisszziptv.atwebpages.com/b9eRpS
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/gzvlt",Sixx
 https://s6.hopslan.com/sixX/index.m3u8
@@ -242,8 +263,14 @@ https://s6.hopslan.com/sixX/index.m3u8
 #EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/i3clnz",Pro7maxx
 https://s6.hopslan.com/pro7maxxX/index.m3u8
 
+#EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/i3clnz",Pro7maxx FHD
+http://swisszziptv.atwebpages.com/ov3i7u
+
 #EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/4nglif",Pro7
 https://s6.hopslan.com/pro7X/index.m3u8
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/4nglif",Pro7 HD
+http://swisszziptv.atwebpages.com/4ntlIQ
 
 #EXTINF:-1 group-title="🇹🇭TV CHAK DE "" tvg-logo="https://n9.cl/kk1ip",ARD
 https://s6.hopslan.com/ardX/index.m3u8
