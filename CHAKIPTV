@@ -284,10 +284,16 @@ http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 group-title="🇹🇭TV CHAK MUSIC"" tvg-logo="hhttps://n9.cl/z5fnep",KissKissTV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist_b1628000_slita.m3u8?
 
-#EXTINF:-1 group-title="🇹🇭TV CHAK MUSIC"" tvg-logo="https://n9.cl/hpqq8",Trace Urban HD
-https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="🇹🇭TV CHAK MUSIC"" tvg-logo="https://n9.cl/z6b79e",DELUXE MUSIC DANCE
+http://swisszziptv.atwebpages.com/nvd1g3
 
-#EXTINF:-1 tvg-logo="https://n9.cl/ny6en" group-title="หนังใหม่-2025" ,พรหมลิขิตรักชิงชิว พากย์ไทย Swisszz สำหรับที่รัก🥰
+#EXTINF:-1 group-title="🇹🇭TV CHAK MUSIC"" tvg-logo="https://n9.cl/7cu5i5",Deejay Music 
+http://swisszziptv.atwebpages.com/nwGba2
+
+#EXTINF:-1 group-title="🇹🇭TV CHAK MUSIC"" tvg-logo="https://n9.cl/hpqq8",Trace Urban HD
+http://swisszziptv.atwebpages.com/ztOJ89
+
+#EXTINF:-1 tvg-logo="https://n9.cl/ny6en" group-title="หนังใหม่-2025" ,พรหมลิขิตรักชิงชิว พากย์ไทย Swisszz 
 https://ok-nah.com/hls/811d77e6695a5ef2c0ca371254f00466/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://n9.cl/8528cz" group-title="หนังใหม่-2025" ,Ballerina (2025) บัลเลรินา แค้นกว่านรก Swisszz
