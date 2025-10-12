@@ -29,7 +29,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://bit.ly/3bASVEu",WORKPOINT-HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8
 
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://shorturl.at/yJHpm",
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://www.true4u.com/static/images/9db5d88d-029a-4468-af3b-bd16c8221ae1_LogoTrue4U.jpg",True4u
 https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8
 
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://bit.ly/3ycjkjB", GMM25-HD
@@ -38,7 +38,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://bit.ly/3I90aQq", Mono 29
 https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8
 
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://n9.cl/9mg4t2",ONE HD
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/16/396384be-35dc-4d11-bf04-06c9546ec7bc.png",ONE HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
 
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://bit.ly/3I9ttlP",Thairath TV
@@ -320,7 +320,7 @@ https://ap.travapo.com/722b4795-7332-49ac-a133-2f583ed9cba7/files/playlist.m3u8
 #EXTINF:-1group-title="💋XXX18+"" tvg-logo="https://xn--72c6c2a3an.com/wp-content/uploads/2025/09/303-5-370x210.png",คลิปหลุดไทยxxx uni_twentynine Onlyfans สาวขี้เงี่ยนมาเย็ดเสียวแหวกขาเย็ดกระแทกหีร่อนเอวโครตเด็ดจัดๆ มาซอยหีกันอย่างเสียว ซอยหีกันอย่างเด็ดๆ เย็ดกันโครตเสียว
 https://ap.travapo.com/ab08e471-b487-4501-bae6-aeaebc2a0df9/files/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://n9.cl/q5sylv" group-title="หนังใหม่-2025" ,Madea’s Destination Wedding (2025) ป้าลุยแหลกแหกวิวาห์ป่วน
+#EXTINF:0001 tvg-id="ThaiMovies" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://n9.cl/q5sylv",Madea’s Destination Wedding (2025) ป้าลุยแหลกแหกวิวาห์ป่วน
 https://main.24playerhd.com/newplaylist/e284c1e39a3ebca769be802e/e284c1e39a3ebca769be802e.m3u8
 
 #EXTINF:-1 tvg-logo="https://n9.cl/0u065" group-title="หนังใหม่-2025" ,Shanghai Knight (2025) ศึกอาชาเซี่ยงไฮ้
