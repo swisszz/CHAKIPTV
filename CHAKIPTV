@@ -1,6 +1,18 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="VIP" tvg-logo="https://n9.cl/82203",Discovery-Chak
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="VIP" tvg-logo="https://dookeela2.live/uploads/1706112738.png",Discovery-Chak
 http://swisszziptv.atwebpages.com/eMuXpI
+
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="VIP" tvg-logo="https://dookeela2.live/uploads/1706112738.png",UK Discovery
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/53684
+
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://dookeela2.live/uploads/1724166218.png",UK-Nat Geo Wild
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/53693
+
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="VIP" tvg-logo="https://dookeela2.live/uploads/1706112700.png",Animal Planet
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/17870
+
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",UK-Sky Sports Main Event
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/35243
 
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://static.ch7.com/images/ch7/theme2012/logo/logo.jpg",CH7
 https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
