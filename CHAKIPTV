@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://n9.cl/82203",Discovery-Chak
+http://swisszziptv.atwebpages.com/eMuXpI
+
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="Thai iptv" tvg-logo="https://static.ch7.com/images/ch7/theme2012/logo/logo.jpg",CH7
 https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
 
