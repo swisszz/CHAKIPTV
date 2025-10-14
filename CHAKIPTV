@@ -296,77 +296,76 @@ http://swisszziptv.atwebpages.com/nwGba2
 #EXTINF:-1 group-title="🇹🇭TV CHAK MUSIC"" tvg-logo="https://n9.cl/hpqq8",Trace Urban HD
 http://swisszziptv.atwebpages.com/ztOJ89
 
-#EXTINF:0 tvg-rec="3",Sky Sport 1 FHD DE
-#EXTGRP:Германия | Germany
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",Sky Sport 1 FHD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/2478/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sport 2 HD DE
-#EXTGRP:Германия | Germany
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",Sky Sport 2 HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/2479/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sport Bundesliga 1 HD DE
-#EXTGRP:Германия | Germany
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",Sky Sport Bundesliga 1 HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/2480/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sport Austria 1 HD DE
-#EXTGRP:Германия | Germany
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",Sky Sport Austria 1 HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/2492/index.m3u8
-#EXTINF:0 tvg-rec="3",Sport 1 HD DE
-#EXTGRP:Германия | Germany
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",Sport 1 HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/2503/index.m3u8
-#EXTINF:0 tvg-rec="3",ZDF HD DE
-#EXTGRP:Германия | Germany
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",ZDF HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6059/index.m3u8
-#EXTINF:0 tvg-rec="0",ZDFinfo HD DE
-#EXTGRP:Германия | Germany
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",ZDFinfo HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/17042/index.m3u8
-#EXTINF:0 tvg-rec="3",VOX HD DE
-#EXTGRP:Германия | Germany
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",VOX HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6061/index.m3u8
-#EXTINF:0 tvg-rec="3",Universal TV FHD DE
-#EXTGRP:Германия | Germany
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",Universal TV FHD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6094/index.m3u8
-#EXTINF:0 tvg-rec="3",Warner TV Serie HD DE
-#EXTGRP:Германия | Germany
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",Warner TV Serie HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6090/index.m3u8
-#EXTINF:0 tvg-rec="3",Warner TV Film DE
-#EXTGRP:Германия | Germany
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",Warner TV Film DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6111/index.m3u8
-#EXTINF:0 tvg-rec="3",Toggo DE
-#EXTGRP:Германия | Germany
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",Toggo DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6063/index.m3u8
-#EXTINF:0 tvg-rec="3",Spiegel Geschichte FHD DE
-#EXTGRP:Германия | Germany
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",Spiegel Geschichte FHD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6091/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sport Bundesliga 9 FHD DE
-#EXTGRP:Германия | Germany
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",Sky Sport Bundesliga 9 FHD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6097/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sport Austria 2 HD DE
-#EXTGRP:Германия | Germany
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",Sky Sport Austria 2 HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6113/index.m3u8
-#EXTINF:0 tvg-rec="3",Sat.1 HD DE
-#EXTGRP:Германия | Germany
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",Sat.1 HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6060/index.m3u8
-#EXTINF:0 tvg-rec="3",Nitro FHD DE
-#EXTGRP:Германия | Germany
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",Nitro FHD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6064/index.m3u8
-#EXTINF:0 tvg-rec="3",RTL HD DE
-#EXTGRP:Германия | Germany
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",RTL HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6062/index.m3u8
-#EXTINF:0 tvg-rec="3",RTL Zwei HD DE
-#EXTGRP:Германия | Germany
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",RTL Zwei HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6065/index.m3u8
-#EXTINF:0 tvg-rec="3",ProSieben HD DE
-#EXTGRP:Германия | Germany
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",ProSieben HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6057/index.m3u8
-#EXTINF:0 tvg-rec="3",ProSieben Maxx FHD DE
-#EXTGRP:Германия | Germany
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",ProSieben Maxx FHD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6058/index.m3u8
-#EXTINF:0 tvg-rec="3",Kabel Eins HD DE
-#EXTGRP:Германия | Germany
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",Kabel Eins HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6067/index.m3u8
-#EXTINF:0 tvg-rec="3",Comedy Central HD DE
-#EXTGRP:Германия | Germany
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",Comedy Central HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6081/index.m3u8
-#EXTINF:0 tvg-rec="3",Motorvision TV DE
-#EXTGRP:Германия | Germany
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",Motorvision TV DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6112/index.m3u8
 
 #EXTINF:-1group-title="💋XXX18+"" tvg-logo="https://xn--72c6c2a3an.com/wp-content/uploads/2025/10/301-5-370x210.png",คลิปหลุดไทยล่าสุด janniex Onlyfans สาวขี้เงี่ยนมาจับนั่งคุกเข่าโม๊คควยแฟนหนุ่ม อย่างเด็ดจัดๆมาดูดน้ำควยโครตเสียว โม๊คควยจนเต็มจัดๆ ซอยหีกันอย่างมันส์ มาโดนจับเย็ดท่าหมากระแทกหีเอวโครตมันส์จัดๆ
