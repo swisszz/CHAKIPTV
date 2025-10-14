@@ -197,6 +197,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/XZ4GQ2XHLGEVTH/20040/index.m3u8
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/3AvZ9",Demax
 http://swisszziptv.atwebpages.com/3kGSn7
 
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/3AvZ9",Demax bk
+https://s6.hopslan.com/dmaxX/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/KF06Q",Sky Sport 1 FHD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/2478/index.m3u8
 
@@ -223,6 +226,9 @@ http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6061/index.m3u8
 
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/NeLcF",Servus
 http://swisszziptv.atwebpages.com/PQw4Ca
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://www.2ix2.com/wp-content/uploads/2020/10/l1.png",TLC
+https://s6.hopslan.com/tlcX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",Universal TV FHD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6094/index.m3u8
@@ -256,6 +262,9 @@ http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6064/index.m3u8
 
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/XCB3W",RTL HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6062/index.m3u8
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/1.png",RTL bk
+https://s6.hopslan.com/rtl1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/MQhAJ",RTL Zwei HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6065/index.m3u8
