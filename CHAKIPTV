@@ -143,22 +143,25 @@ https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 #EXTINF:-1, group-title="🇹🇭CHAK"" tvg-logo="https://n9.cl/baylk",Police Chanell
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC"" tvg-logo="https://n9.cl/4rpuql",Musica ʜᴅ | Deluxe Music
+#EXTINF:-1, group-title="MUSIC"" tvg-logo="https://n9.cl/4rpuql",Musica ʜᴅ | Deluxe Music
 http://swisszziptv.atwebpages.com/yXI1JK
 
-#EXTINF:-1 group-title="MUSIC"" tvg-logo="https://relink.asia/jIxFu",KroneHit TV Music
+#EXTINF:-1, group-title="MUSIC"" tvg-logo="https://relink.asia/jIxFu",KroneHit TV Music
 http://swisszziptv.atwebpages.com/uVG09C
 
-#EXTINF:-1 group-title="  US "" tvg-logo="https://f.hubspotusercontent40.net/hubfs/2173091/IPTV%20Channel%20Logos/nbc-east-light-1.png",NBC EAST
+#EXTINF:-1, group-title=" 🇺🇸 CHAK US "" tvg-logo="https://f.hubspotusercontent40.net/hubfs/2173091/IPTV%20Channel%20Logos/nbc-east-light-1.png",NBC EAST
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 
-#EXTINF:-1 group-title=" CHAK US "" tvg-logo="https://relink.asia/u7lry",UFC
-http://fl1.moveonjoy.com/UFC/index.m3u8
+#EXTINF:-1, group-title=" 🇺🇸 CHAK US "" tvg-logo="https://relink.asia/k43fp",FightBox
+http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/15232/index.m3u8
 
-#EXTINF:-1 group-title="CHAK US "" tvg-logo="https://relink.asia/wA40T",Disvovery
+#EXTINF:-1, group-title="🇺🇸 CHAK US "" tvg-logo="https://www.varnalan.com/wp-content/uploads/2022/05/mma-tv.png",MMA-TV.com HD
+http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/19243/index.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 CHAK US "" tvg-logo="https://relink.asia/wA40T",Disvovery
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 
-#EXTINF:-1 group-title=" MUSIC"" tvg-logo="hhttps://n9.cl/z5fnep",KissKissTV
+#EXTINF:-1 group-title=" MUSIC"" tvg-logo="https://admuzzum.xdevel.com/cloud/x/cid/5446/im/png/XZXV/T/YW/9b3191e2bf6a8c4a483c8959a602e450.png",KissKissTV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist_b1628000_slita.m3u8?
 
 #EXTINF:-1, group-title=" MUSIC"" tvg-logo="https://n9.cl/z6b79e",DELUXE MUSIC DANCE
