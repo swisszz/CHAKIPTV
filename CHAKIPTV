@@ -191,14 +191,26 @@ http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/2479/index.m3u8
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/38WUM",Sky Sport Bundesliga 1 HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/2480/index.m3u8
 
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/xcBUb",Sky Sport Austria 1 Backup
+http://d1045fbd.amazzin.pw/iptv/D7MXW83WSN6X9U/2492/index.m3u8
+
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/xcBUb",Sky Sport Austria 1 HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/2492/index.m3u8
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/Wf8bC",Sport 1 HD Backup
+http://d1045fbd.amazzin.pw/iptv/D7MXW83WSN6X9U/2503/index.m3u8
 
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/Wf8bC",Sport 1 HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/2503/index.m3u8
 
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/v15OL",ZDF Backup
+http://d1045fbd.amazzin.pw/iptv/D7MXW83WSN6X9U/6059/index.m3u8
+
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/v15OL",ZDF HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6059/index.m3u8
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/6LXWk",ZDFinfo Backup
+http://d1045fbd.amazzin.pw/iptv/D7MXW83WSN6X9U/17042/index.m3u8
 
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/6LXWk",ZDFinfo HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/17042/index.m3u8
@@ -211,6 +223,9 @@ http://swisszziptv.atwebpages.com/PQw4Ca
 
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://www.2ix2.com/wp-content/uploads/2020/10/l1.png",TLC
 https://s6.hopslan.com/tlcX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",Universal TV Backup
+http://d1045fbd.amazzin.pw/iptv/D7MXW83WSN6X9U/6094/index.m3u8
 
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://n9.cl/7jua5y",Universal TV FHD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6094/index.m3u8
