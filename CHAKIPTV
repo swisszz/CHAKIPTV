@@ -257,8 +257,8 @@ http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6097/index.m3u8
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/QwSYd",Sky Sport Austria 2 HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6113/index.m3u8
 
-#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/i6MgX",Sat.1 Backup
-https://s6.hopslan.com/sat1z/index.m3u8
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/i6MgX",(DE)⚡️Sat.1 ʰᵉᵛᶜ
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/151339
 
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/i6MgX",Sat.1 HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6060/index.m3u8
@@ -269,8 +269,8 @@ http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6064/index.m3u8
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/XCB3W",RTL HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6062/index.m3u8
 
-#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/1.png",RTL bk
-https://s6.hopslan.com/rtl1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/1.png",(DE)⚡️RTL ʰᵉᵛᶜ
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/151343
 
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/MQhAJ",RTL Zwei Backup
 https://s6.hopslan.com/rtl2q/index.m3u8
@@ -278,8 +278,8 @@ https://s6.hopslan.com/rtl2q/index.m3u8
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/MQhAJ",RTL Zwei HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6065/index.m3u8
 
-#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/etPhi",ProSieben Backup
-https://s6.hopslan.com/pro7z/index.m3u8
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/etPhi",(DE)⚡️ProSieben ʰᵉᵛᶜ
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/151344
 
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/etPhi",ProSieben HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6057/index.m3u8
