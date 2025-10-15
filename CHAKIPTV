@@ -215,6 +215,9 @@ http://d1045fbd.amazzin.pw/iptv/D7MXW83WSN6X9U/17042/index.m3u8
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/6LXWk",ZDFinfo HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/17042/index.m3u8
 
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/Xr6js",VOX Backup
+https://s6.hopslan.com/voxz/index.m3u8
+
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/Xr6js",VOX HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6061/index.m3u8
 
@@ -251,6 +254,9 @@ http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6097/index.m3u8
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/QwSYd",Sky Sport Austria 2 HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6113/index.m3u8
 
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/i6MgX",Sat.1 Backup
+https://s6.hopslan.com/sat1z/index.m3u8
+
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/i6MgX",Sat.1 HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6060/index.m3u8
 
@@ -263,17 +269,32 @@ http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6062/index.m3u8
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/1.png",RTL bk
 https://s6.hopslan.com/rtl1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/MQhAJ",RTL Zwei Backup
+https://s6.hopslan.com/rtl2q/index.m3u8
+
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/MQhAJ",RTL Zwei HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6065/index.m3u8
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/etPhi",ProSieben Backup
+https://s6.hopslan.com/pro7z/index.m3u8
 
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/etPhi",ProSieben HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6057/index.m3u8
 
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/pNBEX",ProSieben Maxx Backup
+https://s6.hopslan.com/pro7maxxX/index.m3u8
+
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/pNBEX",ProSieben Maxx FHD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6058/index.m3u8
 
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/p5fZ4",Kabel Eins Backup
+https://s6.hopslan.com/kabel1z/index.m3u8
+
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/p5fZ4",Kabel Eins HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6067/index.m3u8
+
+#EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/p5fZ4",Kabel Eins Duko
+https://s6.hopslan.com/dokuX/index.m3u8
 
 #EXTINF:-1,group-title="🇩🇪CHAK"" tvg-logo="https://relink.asia/H46D5",Comedy Central HD DE
 http://cf3e1888.akadatel.com/iptv/7TZSES62335H8U/6081/index.m3u8
