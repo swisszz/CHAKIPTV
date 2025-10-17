@@ -11078,3 +11078,27 @@ https://main.24playerhd.com/newplaylist/c942c598f71a11bd7aa37a6a/c942c598f71a11b
 #EXTINF:-1 group-title="หนัง DC Universe" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Batman-The-Dark-Knight-Rises-2012-แบทแมน-อัศวินรัตติกาลผงาด.jpg", Batman The Dark Knight Rises (2012) แบทแมน อัศวินรัตติกาลผงาด
 https://main.24playerhd.com/newplaylist/7781487025218936b0d5274a/7781487025218936b0d5274a.m3u8
 #EXTINF:-1 group-title="หนัง DC Universe" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Batman-The-Dark-Knight-2008-แบทแมน-อัศวินรัตติกาล.jpg", Batman The Dark Knight (2008) แบทแมน อัศวินรัตติกาล
+
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000117/1024.m3u8
+#EXTINF:-1 group-title="VISION+" ,GALAXY PREMIUM
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
+#EXTINF:-1 group-title="VISION+" ,CINEEDGE
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000145/1024.m3u8
+#EXTINF:-1 group-title="VISION+" ,ORIGINALS
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000154/1024.m3u8
+#EXTINF:-1 group-title="VISION+" ,superrix
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8
+#EXTINF:-1 group-title="VISION+" ,UNIQUES
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000156/1024.m3u8
+#EXTINF:-1 group-title="VISION+" ,buddy star
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
+#EXTINF:-1 group-title="VISION+" ,imc
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
