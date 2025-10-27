@@ -17,8 +17,23 @@ http://boxviptv.com:25461/2541421/9mrkwdionm/87
 http://boxviptv.com:25461/2541421/9mrkwdionm/597
 #EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/d7irov" group-title="Thailand Chak",CH7
 https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
+#EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/afnnk" group-title="Thailand Chak",Monomax29
+http://swisszziptv.atwebpages.com/kbBYfi
+#EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/tcd2l" group-title="Thailand Chak",CH5
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/y2z253" group-title="Thailand Chak",Thai Chaiyo
 http://swisszziptv.atwebpages.com/6XM2PC
 #EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/q3t23i" group-title="Thailand Chak",Looktung Network FM 
 http://swisszziptv.atwebpages.com/4GWC1k
-
+#EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/wa2oo" group-title="Thailand Chak",News1
+http://news1.live14.com/stream/news1.m3u8
+#EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/3gdhl" group-title="Thailand Chak",Channel 8
+http://vip.login.in.th:1935/ch8/ch8/chunklist.m3u8
+#EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/i4roq" group-title="Thailand Chak",Topnews
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+#EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/49yt5v" group-title="Thailand Chak",NBT
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w639252070_b2128000.m3u8
+#EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/q5pkh" group-title="Thailand Chak",ALLTV.4
+http://swisszziptv.atwebpages.com/UNdHDO
+#EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/baylk" group-title="Thailand Chak",Police Chanell
+http://swisszziptv.atwebpages.com/9wrOeC
