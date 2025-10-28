@@ -15,8 +15,10 @@ http://boxviptv.com:25461/2541421/9mrkwdionm/185
 http://boxviptv.com:25461/2541421/9mrkwdionm/87
 #EXTINF:-1 tvg-id="2598" tvg-name="TRT 1 (Backup)" tvg-logo="http://epg.one/img/2598.png" group-title="Turkiye",TRT 1 (Backup)
 http://boxviptv.com:25461/2541421/9mrkwdionm/597
-#EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/d7irov" group-title="Thailand Chak",CH7
-https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
+#EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/mskmp" group-title="Thailand Chak",Discovery
+https://n9.cl/js4xvv
+#EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/btsj0t" group-title="Thailand Chak",Trace Urban
+http://swisszziptv.atwebpages.com/ctBn7h
 #EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/afnnk" group-title="Thailand Chak",Monomax29
 http://swisszziptv.atwebpages.com/kbBYfi
 #EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/tcd2l" group-title="Thailand Chak",CH5
