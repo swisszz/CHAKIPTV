@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="TR: Show Max HD" tvg-name="SHOWMAX" tvg-logo="http://epg.one/img/3881.png" group-title="Turkiye",S Sport STR
+http://swisszziptv.atwebpages.com/wasWVD
 #EXTINF:-1 tvg-id="TR: Show Max HD" tvg-name="SHOWMAX" tvg-logo="http://epg.one/img/3943.png" group-title="Turkiye",SHOWMAX
 http://boxviptv.com:25461/2541421/9mrkwdionm/298
 #EXTINF:-1 tvg-id="TR: Teve2 HD" tvg-name="TEVE 2" tvg-logo="http://epg.one/img/2607.png" group-title="Turkiye",TEVE 2
