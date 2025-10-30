@@ -1,22 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="TR: Show Max HD" tvg-name="SHOWMAX" tvg-logo="http://epg.one/img/3881.png" group-title="Turkiye",S Sport 1
+http://swisszziptv.atwebpages.com/0paExe
 #EXTINF:-1 tvg-id="TR: Show Max HD" tvg-name="SHOWMAX" tvg-logo="http://epg.one/img/3881.png" group-title="Turkiye",S Sport STR
 http://swisszziptv.atwebpages.com/wasWVD
-#EXTINF:-1 tvg-id="TR: Show Max HD" tvg-name="SHOWMAX" tvg-logo="http://epg.one/img/3943.png" group-title="Turkiye",SHOWMAX
-http://boxviptv.com:25461/2541421/9mrkwdionm/298
-#EXTINF:-1 tvg-id="TR: Teve2 HD" tvg-name="TEVE 2" tvg-logo="http://epg.one/img/2607.png" group-title="Turkiye",TEVE 2
-http://boxviptv.com:25461/2541421/9mrkwdionm/598
-#EXTINF:-1 tvg-id="TR: 360 HD" tvg-name="360 HD" tvg-logo="https://i.postimg.cc/RVYnBvtv/tv360.jpg" group-title="Turkiye",360 HD
-http://boxviptv.com:25461/2541421/9mrkwdionm/92
-#EXTINF:-1 tvg-id="2601" tvg-name="NTV TR" tvg-logo="http://epg.one/img/2601.png" group-title="Turkiye",NTV TR
-http://boxviptv.com:25461/2541421/9mrkwdionm/93
-#EXTINF:-1 tvg-id="3980" tvg-name="Global Haber TV TR" tvg-logo="http://epg.one/img/3980.png" group-title="Turkiye",Global Haber TV TR
-http://boxviptv.com:25461/2541421/9mrkwdionm/96
-#EXTINF:-1 tvg-id="3974" tvg-name="TRT HABER" tvg-logo="http://epg.one/img/3974.png" group-title="Turkiye",TRT HABER
-http://boxviptv.com:25461/2541421/9mrkwdionm/185
-#EXTINF:-1 tvg-id="ch001" tvg-name="TRT 1" tvg-logo="http://epg.one/img/2598.png" group-title="Turkiye",TRT 1
-http://boxviptv.com:25461/2541421/9mrkwdionm/87
-#EXTINF:-1 tvg-id="2598" tvg-name="TRT 1 (Backup)" tvg-logo="http://epg.one/img/2598.png" group-title="Turkiye",TRT 1 (Backup)
-http://boxviptv.com:25461/2541421/9mrkwdionm/597
+#EXTINF:-1 tvg-id="TR: Show Max HD" tvg-name="SHOWMAX" tvg-logo="http://epg.one/img/2600.png" group-title="Turkiye",ATV HD
+http://swisszziptv.atwebpages.com/o3PZh9
+#EXTINF:-1 tvg-id="TR: Teve2 HD" tvg-name="TEVE 2" tvg-logo="http://epg.one/img/2593.png" group-title="Turkiye",STAR HD
+http://swisszziptv.atwebpages.com/tcL37I
+#EXTINF:-1 tvg-id="TR: 360 HD" tvg-name="360 HD" tvg-logo="http://epg.one/img/2608.png" group-title="Turkiye",Show TV
+http://swisszziptv.atwebpages.com/QpcXDO
+#EXTINF:-1 tvg-id="2601" tvg-name="NTV TR" tvg-logo="http://epg.one/img/2605.png" group-title="Turkiye",KANAL D 
+http://swisszziptv.atwebpages.com/8tlCuU
+#EXTINF:-1 tvg-id="3980" tvg-name="Global Haber TV TR" tvg-logo="http://epg.one/img/9801.png" group-title="Turkiye",Now TV
+http://swisszziptv.atwebpages.com/CMJPjX
+#EXTINF:-1 tvg-id="3974" tvg-name="TRT HABER" tvg-logo="http://epg.one/img/2593.png" group-title="Turkiye",STAR ʜᴅ
+http://swisszziptv.atwebpages.com/LvpyeR
+#EXTINF:-1 tvg-id="ch001" tvg-name="TRT 1" tvg-logo="http://epg.one/img/3957.png" group-title="Turkiye",Kanal 7 
+http://swisszziptv.atwebpages.com/Uuw0kE
+#EXTINF:-1 tvg-id="2598" tvg-name="TRT 1 (Backup)" tvg-logo="http://epg.one/img/8707.png" group-title="Turkiye",Sozcu Tv
+http://swisszziptv.atwebpages.com/c8SrHB
 #EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/mskmp" group-title="Thailand Chak",Discovery
 https://n9.cl/js4xvv
 #EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/btsj0t" group-title="Thailand Chak",Trace Urban
