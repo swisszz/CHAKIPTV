@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="SHOW TURK" tvg-id="ShowTurk.tr" tvg-logo="https://i.ibb.co/rtCJSqm/show-turk.png" group-title="ULUSAL",SHOW TURK
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://swisszziptv.atwebpages.com/LKMtWg
 #EXTINF:-1 tvg-id="TR: Show Max HD" tvg-name="SHOWMAX" tvg-logo="http://epg.one/img/3881.png" group-title="Turkiye",S Sport 1
 http://swisszziptv.atwebpages.com/0paExe
 #EXTINF:-1 tvg-id="TR: Show Max HD" tvg-name="SHOWMAX" tvg-logo="http://epg.one/img/3881.png" group-title="Turkiye",S Sport STR
@@ -7,6 +10,8 @@ http://swisszziptv.atwebpages.com/wasWVD
 http://swisszziptv.atwebpages.com/f6BtE1
 #EXTINF:-1 tvg-id="TR: Teve2 HD" tvg-name="TEVE 2" tvg-logo="http://epg.one/img/2593.png" group-title="Turkiye",STAR HD
 http://swisszziptv.atwebpages.com/tcL37I
+#EXTINF:-1 tvg-id="TR: Teve2 HD" tvg-name="TEVE 2" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="Turkiye",TRT 1
+http://swisszziptv.atwebpages.com/7UgHpx
 #EXTINF:-1 tvg-id="TR: 360 HD" tvg-name="360 HD" tvg-logo="http://epg.one/img/2608.png" group-title="Turkiye",Show TV
 http://swisszziptv.atwebpages.com/QpcXDO
 #EXTINF:-1 tvg-id="2601" tvg-name="NTV TR" tvg-logo="http://epg.one/img/2605.png" group-title="Turkiye",KANAL D 
