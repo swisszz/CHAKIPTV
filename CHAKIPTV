@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Haber Türk [Kynk 1]" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HaberTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216" group-title="Haber",Haber Türk [Kynk 1]
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+# ? https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" group-title="Ulusal",Kanal 7
+http://stream.tvcdn.net/ulusal/kanal-7.m3u8
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8d/Beyaz_TV_logo.jpeg" group-title="Ulusal",Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8?hash=a055ca71c43292ea91b15da3a620d52a
+#EXTINF:-1 tvg-id="Star.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",star TV ➾[Kynk 1]
+http://stream.tvcdn.net/ulusal/star-tv.m3u8
+#EXTINF:-1 tvg-id="Show TV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",show TV
+http://stream.tvcdn.net/ulusal/show-tv.m3u8
+# ? https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="ULUSAL",Kanal D
+http://swisszziptv.atwebpages.com/nGlFY5
 #EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV
 http://swisszziptv.atwebpages.com/tARbaB
 #EXTINF:-1 tvg-name="SHOW TURK" tvg-id="ShowTurk.tr" tvg-logo="https://i.ibb.co/rtCJSqm/show-turk.png" group-title="ULUSAL",SHOW TURK
@@ -78,6 +92,11 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u
 http://swisszziptv.atwebpages.com/0paExe
 #EXTINF:-1 tvg-id="TR: Show Max HD" tvg-name="SHOWMAX" tvg-logo="http://epg.one/img/3881.png" group-title="Turkiye",S Sport STR
 http://swisszziptv.atwebpages.com/wasWVD
+#EXTINF:-1 tvg-id="TR: Show Max HD" tvg-name="SHOWMAX" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Turkiye",ATV Bk Chak
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+# ? https://c.fulltvizle.com/aytv/index.m3u8
+# ? http://stream.tvcdn.net/ulusal/atv.m3u8
+# ? https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=ppEHH3L4mx1CVzPYCypqeQ&e=1739134276&ppid=b2beb6d20eb61a441ab94d9a33995258&gdpr=0
 #EXTINF:-1 tvg-id="TR: Show Max HD" tvg-name="SHOWMAX" tvg-logo="http://epg.one/img/2600.png" group-title="Turkiye",ATV HD
 http://swisszziptv.atwebpages.com/f6BtE1
 #EXTINF:-1 tvg-id="TR: Teve2 HD" tvg-name="TEVE 2" tvg-logo="http://epg.one/img/2593.png" group-title="Turkiye",STAR HD
