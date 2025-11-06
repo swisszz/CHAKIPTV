@@ -1,44 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TR: Teve2 HD" tvg-name="TEVE 2" tvg-logo="http://epg.one/img/2593.png" group-title="Turkiye",STAR HD
-http://swisszziptv.atwebpages.com/tcL37I
-#EXTINF:-1 tvg-id="TR: Teve2 HD" tvg-name="TEVE 2" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="Turkiye",TRT 1
-http://swisszziptv.atwebpages.com/7UgHpx
-#EXTINF:-1 tvg-id="TR: 360 HD" tvg-name="360 HD" tvg-logo="http://epg.one/img/2608.png" group-title="Turkiye",Show TV
-http://swisszziptv.atwebpages.com/QpcXDO
-#EXTINF:-1 tvg-id="2601" tvg-name="NTV TR" tvg-logo="http://epg.one/img/2605.png" group-title="Turkiye",KANAL D 
-http://swisszziptv.atwebpages.com/8tlCuU
-#EXTINF:-1 tvg-id="3980" tvg-name="Global Haber TV TR" tvg-logo="http://epg.one/img/9801.png" group-title="Turkiye",Now TV
-http://swisszziptv.atwebpages.com/CMJPjX
-#EXTINF:-1 tvg-id="3974" tvg-name="TRT HABER" tvg-logo="http://epg.one/img/2593.png" group-title="Turkiye",STAR ʜᴅ
-http://swisszziptv.atwebpages.com/LvpyeR
-#EXTINF:-1 tvg-id="ch001" tvg-name="TRT 1" tvg-logo="http://epg.one/img/3957.png" group-title="Turkiye",Kanal 7 
-http://swisszziptv.atwebpages.com/Uuw0kE
-#EXTINF:-1 tvg-id="2598" tvg-name="TRT 1 (Backup)" tvg-logo="http://epg.one/img/8707.png" group-title="Turkiye",Sozcu Tv
-http://swisszziptv.atwebpages.com/c8SrHB
-#EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/mskmp" group-title="Thailand Chak",Discovery
-https://n9.cl/js4xvv
-#EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/btsj0t" group-title="Thailand Chak",Trace Urban
-http://swisszziptv.atwebpages.com/ctBn7h
-#EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/afnnk" group-title="Thailand Chak",Monomax29
-http://swisszziptv.atwebpages.com/kbBYfi
-#EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/tcd2l" group-title="Thailand Chak",CH5
-https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-#EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/y2z253" group-title="Thailand Chak",Thai Chaiyo
-http://swisszziptv.atwebpages.com/6XM2PC
-#EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/q3t23i" group-title="Thailand Chak",Looktung Network FM 
-http://swisszziptv.atwebpages.com/4GWC1k
-#EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/wa2oo" group-title="Thailand Chak",News1
-http://news1.live14.com/stream/news1.m3u8
-#EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/3gdhl" group-title="Thailand Chak",Channel 8
-http://vip.login.in.th:1935/ch8/ch8/chunklist.m3u8
-#EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/i4roq" group-title="Thailand Chak",Topnews
-https://live.topnews.co.th/hls/topnews_a_720.m3u8
-#EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/49yt5v" group-title="Thailand Chak",NBT
-https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w639252070_b2128000.m3u8
-#EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/q5pkh" group-title="Thailand Chak",ALLTV.4
-http://swisszziptv.atwebpages.com/UNdHDO
-#EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/baylk" group-title="Thailand Chak",Police Chanell
-http://swisszziptv.atwebpages.com/9wrOeC
 #EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/0wuy1" group-title="Radio Chak",Best Hits Radio 80's
 http://cord-cutter.net:8080/4037427607/ronbat@hotmail.com/17539
 #EXTINF:-1 tvg-id="5691" tvg-name="ТВЦ" tvg-logo="https://n9.cl/wpfrli" group-title="Radio Chak",BeGoodRadio - 80s Rock Mix
